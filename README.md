@@ -14,8 +14,7 @@ My name is Bradford Derby, a second-year undergraduate Computer Science student 
 - Smart City Design
 
 ## :bar_chart: Projects
-- **Smart Traffic Management System:** Utilized ML algorithms to optimize traffic flow, reducing congestion by 30%.
-- **Urban Planning AI:** Developed a predictive model to analyze and propose urban design modifications.
+- **Metroscape** Plotting and visualizing new metro lines extensions in cities around the US 
 
 ## :handshake: Let's Connect
 - LinkedIn: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/bradfordhderby/)
