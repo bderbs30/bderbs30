@@ -1,4 +1,4 @@
-# Hello, World! :wave:
+# Hello! :wave:
 
 My name is Bradford Derby, a second-year undergraduate Computer Science student at Northeastern with a concentration in ML and AI. I believe that intelligently designed systems can significantly improve the urban experience and pave the way for sustainable, smart cities of the future.
 
