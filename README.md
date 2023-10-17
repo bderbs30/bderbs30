@@ -13,12 +13,6 @@ My name is Bradford Derby, a second-year undergraduate Computer Science student 
 - Urban Transit Systems
 - Smart City Design
 
-## :bar_chart: Projects
-- **Metroscape** Plotting and visualizing new metro lines extensions in cities around the US 
-
-## :handshake: Let's Connect
-- LinkedIn: [linkedin](https://www.linkedin.com/in/bradfordhderby/)
-
 ## :books: Education
 - **Northeastern University**
   - B.S. in Computer Science with a concentration in AI and ML
