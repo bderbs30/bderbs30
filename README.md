@@ -17,8 +17,7 @@ My name is Bradford Derby, a second-year undergraduate Computer Science student 
 - **Metroscape** Plotting and visualizing new metro lines extensions in cities around the US 
 
 ## :handshake: Let's Connect
-- LinkedIn: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/bradfordhderby/)
-- GitHub: [github.com/your-github](https://github.com/bderbs30)
+- LinkedIn: [linkedin](https://www.linkedin.com/in/bradfordhderby/)
 
 ## :books: Education
 - **Northeastern University**
