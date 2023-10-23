@@ -9,7 +9,7 @@ I'm Bradford Derby, a second-year undergraduate Computer Science student at Nort
 
 ## :brain: Areas of Interest
 - Artificial Intelligence
-- Machine Learning
+- Data Visualization
 - Urban Transit Systems
 - Smart City Design
 
