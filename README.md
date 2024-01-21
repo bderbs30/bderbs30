@@ -17,4 +17,4 @@ I'm Bradford Derby, a second-year undergraduate Computer Science student at Nort
 ## :books: Education
 - **Northeastern University**
   - B.S. in Computer Science with a concentration in AI and ML
-  - Expected Graduation: December 2025
+  - Expected Graduation: May 2025
