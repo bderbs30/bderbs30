@@ -1,6 +1,8 @@
 # Hello! :wave:
 
-I'm Bradford Derby, a second-year undergraduate Computer Science student at Northeastern with a concentration in ML and AI. 
+I'm Bradford Derby, a second-year undergraduate Computer Science student at Northeastern with a concentration in ML and AI. I work on the [FinishLine](https://github.com/Northeastern-Electric-Racing/FinishLine)
+ project as a Software Developer and Tech Lead.
+
 
 ## :computer: Technical Skills
 - Programming Languages: Java, Python, SQL, JavaScript, TypeScript, C/C++, HTML/CSS
