@@ -19,4 +19,3 @@ I'm Bradford Derby, an undergraduate Computer Science student at Northeastern wi
 ## :books: Education
 - **Northeastern University**
   - B.S. in Computer Science with a concentration in AI and ML
-  - Expected Graduation: May 2026
