@@ -5,9 +5,9 @@ I'm Bradford Derby, an undergraduate Computer Science student at Northeastern wi
 
 
 ## :computer: Technical Skills
-- Programming Languages: Java, Python, SQL, JavaScript, TypeScript, C/C++, HTML/CSS
-- Framework/Libraries: React, Flask, JUnit
-- Technologies/Tools: MySQL, PostgreSQL, GitHub, Docker
+- Programming Languages: Java, Python, JavaScript, TypeScript, SQL, C/C++, HTML/CSS, Bash
+- Frameworks/Libraries: React, Express, Flask, JUnit, Prisma, Spring Boot
+- Technologies/Tools: MySQL, PostgreSQL, Git, Docker, Node, Postman, Unix/Linux
 
 ## :brain: Areas of Interest
 - Artificial Intelligence
