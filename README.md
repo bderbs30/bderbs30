@@ -10,11 +10,10 @@ I'm Bradford Derby, an undergraduate Computer Science student at Northeastern wi
 - Technologies/Tools: MySQL, PostgreSQL, Git, Docker, Node, Postman, Unix/Linux
 
 ## :brain: Areas of Interest
-- Artificial Intelligence
-- Data Visualization
-- Urban Transit Systems and Design
-- Finance
-- Cloud Technologies
+- Fullstack Development (Backend Focused)
+- Infrastructure
+- Distributed Systems
+- Challenges of Scale
 
 ## :books: Education
 - **Northeastern University**
