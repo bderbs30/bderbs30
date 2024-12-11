@@ -12,7 +12,6 @@ I'm Bradford Derby, an undergraduate Computer Science student at Northeastern wi
 - Fullstack Development (Backend Focused)
 - Infrastructure
 - Distributed Systems
-- Challenges of Scale
 
 ## :books: Education
 - **Northeastern University**
