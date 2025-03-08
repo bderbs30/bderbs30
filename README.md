@@ -5,11 +5,11 @@ I'm Bradford Derby, an undergraduate Computer Science student at Northeastern wi
 
 
 ## :computer: Technical Skills
-- Languages: Java, Python, SQL, Typescript, JavaScript, HTML/CSS,
-- Frameworks/Libraries: React, Node.js, Express, Flask, JUnit, Spring Boot
-- Tools: MySQL, PostgreSQL, Git, GitHub, Docker, Postman
+- Languages: Java, Python, C#, SQL, Typescript, JavaScript, HTML/CSS
+- Frameworks/Libraries: React, Node, Express, Flask, Spring Boot, .NET
+- Tools: MySQL, PostgreSQL, Git, Docker, Postman
 ## :brain: Areas of Interest
-- Fullstack Development (Backend Focused)
+- Fullstack Development
 - Infrastructure
 - Distributed Systems
 
