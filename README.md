@@ -1,7 +1,6 @@
 # Hello! :wave:
 
-I'm Bradford Derby, an undergraduate Computer Science student at Northeastern. I work on the [FinishLine](https://github.com/Northeastern-Electric-Racing/FinishLine)
- project as a Software Developer and Tech Lead.
+I'm Bradford Derby, an undergraduate Computer Science student at Northeastern.
 
 
 ## :computer: Technical Skills
