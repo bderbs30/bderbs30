@@ -28,7 +28,7 @@ Currently, I'm a tech lead at [Sandbox](https://sandboxnu.com), building an open
 
 **Wayfair** — Building AI agents and supplier-facing APIs on the supply chain team.
 
-**Citigroup** — Worked directly with trading teams to reduce their workload. Sometimes woke up at 5 am for international calls. Built distributed notification streaming with Kafka producers.
+**Citigroup** — Worked directly with trading teams to reduce their workload. Sometimes woke up at 5 am for international calls. Built distributed notification streaming with Kafka producers, reducing batch processing time for margin agreements
 
 **Northeastern Dong Lab** — Published research in ACS on predictive modeling for polymers.
 
