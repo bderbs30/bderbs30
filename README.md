@@ -18,7 +18,7 @@
 
 ### Hey, I'm Brad.
 
-I'm a fourth-year computer science student at Northeastern University, graduating in 2026.
+I'm a fourth-year computer science student at Northeastern University
 
 Currently, I'm a tech lead at [Sandbox](https://sandboxnu.com), building an open-source alternative to HackerRank and CodeSignal.
 
