@@ -56,9 +56,9 @@ Currently, I'm a tech lead at [Sandbox](https://sandboxnu.com), building an open
 
 ### Ideas I'm Exploring
 
-**Distributed Ticketing Service** — I missed Bruno Mars tickets. Now I need to understand *why* at a systems level.
+**Distributed Ticketing Service** — I missed Bruno Mars tickets. Now I need to understand *why* :/
 
-**Elevator Scheduling Algorithm** — Got stuck waiting for the elevator for two minutes. There has to be a better way. Historical usage patterns? Predictive queueing?
+**Elevator Scheduling Algorithm** — Got stuck waiting for the elevator for two minutes. (too long)
 
 **Outfit of the Day Platform** — A place to share fits with friends and see where they bought things.
 
