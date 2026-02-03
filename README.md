@@ -26,11 +26,11 @@ Currently, I'm a tech lead at [Sandbox](https://sandboxnu.com), building an open
 
 ### Where I've Been
 
-**Wayfair** — Building AI agents and supplier-facing APIs on the supply chain team.
+**Wayfair** - Building AI agents and supplier-facing APIs on the supply chain team.
 
-**Citigroup** — Worked directly with trading teams to reduce their workload. Sometimes woke up at 5 am for international calls. Built distributed notification streaming with Kafka producers, reducing batch processing time for margin agreements
+**Citigroup** - Worked directly with trading teams to reduce their workload. Sometimes woke up at 5 am for international calls. Built distributed notification streaming with Kafka producers, reducing batch processing time for margin agreements
 
-**Northeastern Dong Lab** — Published [research](https://pubs.acs.org/doi/10.1021/acs.jcim.5c01376) in ACS on predictive modeling for polymers.
+**Northeastern Dong Lab** - Published [research](https://pubs.acs.org/doi/10.1021/acs.jcim.5c01376) in ACS on predictive modeling for polymers.
 
 ---
 
@@ -56,11 +56,11 @@ Currently, I'm a tech lead at [Sandbox](https://sandboxnu.com), building an open
 
 ### Ideas I'm Exploring
 
-**Distributed Ticketing Service** — I missed Bruno Mars tickets. Now I need to understand *why* :/
+**Distributed Ticketing Service** - I missed Bruno Mars tickets. Now I need to understand *why* :/
 
-**Elevator Scheduling Algorithm** — Got stuck waiting for the elevator for two minutes. (too long)
+**Elevator Scheduling Algorithm** - Got stuck waiting for the elevator for two minutes. (too long)
 
-**Outfit of the Day Platform** — A place to share fits with friends and see where they bought things.
+**Outfit of the Day Platform** - A place to share fits with friends and see where they bought things.
 
 ---
 
